@@ -1,0 +1,3 @@
+F_equals_ind_AI_Transmission_Report.pdf
+	•	F_equals_ind_Structure_Diagram.png
+	•	F_equals_ind_Transmission_Email.txt
